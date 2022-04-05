@@ -1,0 +1,21 @@
+{
+  "name": "prueba-de-random-messages",
+  "version": "1.0.0",
+  "description": "mensajes aleatorios",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "random",
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Jhojan Infante <Jhojaninfante@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "nombres-aleatorios": "./bin/global.js"
+  },
+  "preferGlobal":true
+}
